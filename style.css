@@ -43,6 +43,7 @@
    ========================== */
    header{
       background-color: #F6F6F6;
+      height: 100%;
    }
 
 /* 
@@ -124,3 +125,63 @@
    border-radius: 30px;
       box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.097);
 }
+
+
+/* 
+========BANNER PART========
+*/
+.section1{
+   display: flex;
+   justify-content: center;
+   gap: 50px;
+   margin: 100px 0;
+}
+
+.primary-category-container{
+   background-color: #0B7E8A;
+   padding: 40px 60px;
+   width: 500px;
+   height: 650px;
+   border-radius: 30px;
+}
+
+.primary-category-container h1{
+   font-family: "Playfair Display", serif;
+   font-size: 35px;
+   font-family: 100;
+   color: #FFFFFF;
+}
+
+.primary-category-container p{
+   font-size: 16px;
+   color: #ececec;
+   padding: 15px 0 30px 0;
+}
+
+.box-container{
+   width: 50%;
+}
+
+.box-content{
+   display: flex;
+   justify-content: space-between;
+   background-color: #F6F6F6;
+   padding: 40px 30px 40px 55px;
+   border-radius: 30px;
+}
+
+.box-content-title-container h3{
+   font-family: "Playfair Display", serif;
+   font-size: 30px;
+   font-family: 100;
+   color: #000000;
+}
+
+.box-content-title-container p{
+   font-size: 15px;
+   color: #646464;
+   padding: 15px 0 30px 0;
+}
+
+
+
