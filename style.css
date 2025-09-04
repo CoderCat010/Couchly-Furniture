@@ -188,7 +188,7 @@
 ========SECTION PART1========
 */
 .section2{
-   margin: 150px 70px;
+   margin: 100px 70px;
 }
 
 .section2-title-container{
@@ -208,7 +208,6 @@
    display: flex;
    justify-content: center;
    gap: 40px;
-   border: 1px solid red;
 }
 
 .card-content{
