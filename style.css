@@ -263,7 +263,6 @@
 /* 
 ========SECTION PART3========
 */
-
 .section3{
    margin: 100px 0;
    background-color: #F6F6F6;
@@ -290,5 +289,44 @@
    border: none;
    color: #ffffff;
    border-radius: 5px;
+}
+
+
+/* 
+========SECTION PART3========
+*/
+.section4{
+   /* display: flex;
+   justify-content: center;
+   gap: 50px; */
+   margin: 100px 80px;
+}
+
+.selling-furniture-container{
+   background-color: #0B7E8A;
+   padding: 40px 60px;
+   width: 600px;
+   height: 450px;
+   border-radius: 30px;
+}
+
+.selling-furniture-container h1{
+   font-family: "Playfair Display", serif;
+   font-size: 35px;
+   font-family: 100;
+   color: #FFFFFF;
+}
+
+.selling-furniture-container p{
+   font-size: 16px;
+   color: #ececec;
+   padding: 15px 0 30px 0;
+}
+
+.section4-img-container img{
+   display: flex;
+   position: relative;
+   top: -70px;
+   left: 150px;
 }
 
