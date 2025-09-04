@@ -302,6 +302,12 @@
    margin: 100px 80px;
 }
 
+.section4-container{
+   display: flex;
+   justify-content: center;
+   gap: 50px;
+}
+
 .selling-furniture-container{
    background-color: #0B7E8A;
    padding: 40px 60px;
@@ -327,6 +333,11 @@
    display: flex;
    position: relative;
    top: -70px;
-   left: 150px;
+   left: 100px;
+}
+
+.sec4-box-container{
+   display: flex;
+   gap: 30px;
 }
 
