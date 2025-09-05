@@ -381,3 +381,78 @@
    height: 550px;
 }
 
+
+/* 
+========SECTION PART7========
+*/
+.section7{
+   margin: 100px 70px;
+}
+
+.section7-title-container{
+   text-align: center;
+   padding:  0 0 50px 0;
+}
+
+.section7-title-container h1{
+   font-family: "Playfair Display", serif;
+   font-size: 50px;
+   padding-bottom: 10px;
+   font-family: 100;
+   color: #000000;
+}
+
+.section7-card-container{
+   display: grid;
+   grid-template-columns: repeat(4, 1fr);
+   justify-content: center;
+   gap: 40px;
+}
+
+.sec7-card-content{
+   width: 280px;
+   height: 100%;
+}
+
+.sec7-card-img-container img{
+   width: 100%;
+   border-radius: 20px;
+}
+
+.sec7-card-content h3{
+   font-family: "Playfair Display", serif;
+   font-size: 18px;
+   color: #000000;
+   padding: 15px 0 0 0;
+}
+
+.sec7-card-content p{
+   font-size: 18px;
+   color: #0B7E8A;
+   font-weight: 700;
+   padding: 10px 0 15px 0;
+}
+
+.section7-button-icon-container{
+   display: flex;
+   align-items: center;
+   gap: 10px;
+}
+
+.section7-button-icon-container button{
+   margin-top: 5px;
+   padding: 10px 20px;
+   background-color: #ffffff;
+   border: 1px solid #33333323;
+   border-radius: 5px;
+   cursor: pointer;
+}
+
+.section7-button-icon-container ion-icon{
+   padding: 10px;
+   font-size: 17px;
+   border-radius: 50%;
+   background-color: #ffffff;
+   border: 1px solid #33333323;
+   cursor: pointer;
+}
