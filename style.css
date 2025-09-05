@@ -186,7 +186,7 @@
 
 
 /* 
-========SECTION PART1========
+========SECTION PART2========
 */
 .section2{
    margin: 100px 70px;
@@ -284,7 +284,7 @@
 .section3-title-container button{
    margin-top: 30px;
    font-size: 16px;
-   padding: 15px 40px;
+   padding: 15px 30px;
    background-color: #0B7E8A;
    border: none;
    color: #ffffff;
@@ -296,9 +296,6 @@
 ========SECTION PART3========
 */
 .section4{
-   /* display: flex;
-   justify-content: center;
-   gap: 50px; */
    margin: 100px 80px;
 }
 
@@ -341,3 +338,40 @@
    gap: 30px;
 }
 
+
+/* 
+========SECTION PART6========
+*/
+.section6{
+   margin: 100px 0;
+   background-color: #F6F6F6;
+}
+
+.section6-container{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 0px 60px 0 80px;
+}
+
+.section6-title-container h1{
+   font-family: "Playfair Display", serif;
+   font-size: 50px;
+   color: #000000cb;
+}
+
+.section6-title-container p{
+   font-size: 18px;
+   color: #333333;
+   padding: 20px 0 0 0;
+}
+
+.section6-title-container button{
+   margin-top: 20px;
+   font-size: 16px;
+   padding: 15px 30px;
+   background-color: #0B7E8A;
+   border: none;
+   color: #ffffff;
+   border-radius: 5px;
+}
