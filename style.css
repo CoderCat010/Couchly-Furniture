@@ -456,3 +456,32 @@
    border: 1px solid #33333323;
    cursor: pointer;
 }
+
+
+/* 
+========SECTION PART8========
+*/
+.section8{
+   margin: 150px 80px;
+}
+
+.service-container{
+   display: flex;
+   justify-content: center;
+   gap: 100px;
+   align-items: center;
+   text-align: center;
+}
+
+.service-content h3{
+   font-family: "Playfair Display", serif;
+   font-size: 20px;
+   color: #000000;
+   padding: 10px 0;
+}
+
+.service-content p{
+   font-size: 15px;
+   color: #646464;
+   padding: 0 0 10px 0;
+}
