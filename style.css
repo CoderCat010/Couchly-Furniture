@@ -481,7 +481,56 @@
 }
 
 .service-content p{
-   font-size: 15px;
+   font-size: 13px;
    color: #646464;
-   padding: 0 0 10px 0;
+}
+
+
+/* 
+========SECTION PART3========
+*/
+.section9{
+   margin: 100px 55px;
+}
+
+.article-title-container{
+   display: flex;
+   justify-content: space-between;
+   margin-bottom: 30px;
+}
+
+.article-title-container button{
+   padding: 13px 40px;
+   background-color: #ffffff;
+   border: 1px solid #33333323;
+   border-radius: 6px;
+   cursor: pointer;
+   font-size: 20px;
+   font-family: "Playfair Display", serif;
+   font-weight: 500;
+}
+
+.article-card-container{
+   display: flex;
+   justify-content: center;
+   gap: 20px;
+}
+
+.article-card-content img{
+   border-radius: 20px;
+   max-width: 300px;
+   height: 200px;
+}
+
+.article-card-content h6{
+   color: #646464;
+   font-size: 13px;
+   font-weight: 500;
+   margin-top: 10px;
+}
+
+.article-card-content p{
+   font-size: 15px;
+   color: #000000;
+   padding: 5px 0 0 0;
 }
