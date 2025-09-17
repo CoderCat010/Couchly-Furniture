@@ -487,7 +487,7 @@
 
 
 /* 
-========SECTION PART3========
+========SECTION PART9========
 */
 .section9{
    margin: 50px 55px 100px 55px;
@@ -533,4 +533,49 @@
    font-size: 15px;
    color: #000000;
    padding: 5px 0 0 0;
+}
+
+
+/* 
+========SECTION PART6========
+*/
+.section10{
+   margin: 200px 80px 100px 80px;
+   background-color: #0B7E8A;
+   border-radius: 30px;
+}
+
+.section10-container{
+   display: flex;
+   height: 380px;
+   justify-content: space-between;
+   align-items: center;
+   padding: 0px 100px;
+   
+}
+
+.section10-title-container h1{
+   font-family: "Playfair Display", serif;
+   font-size: 50px;
+   color: #fff;
+}
+
+.section10-title-container p{
+   font-size: 17px;
+   color: #e3e3e3;
+   padding: 10px 0 0 0;
+}
+
+.section10-title-container button{
+   margin-top: 30px;
+   font-size: 17px;
+   padding: 15px 40px;
+   background-color: #fff;
+   border: none;
+   color: #000;
+   border-radius: 50px;
+}
+
+.section10-img-container{
+   height: 550px;
 }
