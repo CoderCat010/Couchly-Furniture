@@ -46,6 +46,7 @@
       height: 100%;
    }
 
+
 /* 
 ========Nav PART========
 */
@@ -129,7 +130,7 @@
 
 
 /* 
-========BANNER PART========
+========SECTION PART1========
 */
 .section1{
    display: flex;
@@ -293,7 +294,7 @@
 
 
 /* 
-========SECTION PART3========
+========SECTION PART4========
 */
 .section4{
    margin: 100px 80px;
@@ -537,7 +538,7 @@
 
 
 /* 
-========SECTION PART6========
+========SECTION PART10========
 */
 .section10{
    margin: 200px 80px 100px 80px;
