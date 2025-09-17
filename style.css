@@ -586,7 +586,7 @@
     FOOTER SECTION STYLES
    =========================== */
 footer{
-   margin: 100px 80px 0 80px;
+   margin: 100px 0 0 0;
 }
 
 .footer-parent-div{
@@ -597,4 +597,19 @@ footer{
 
 .footer-container-items ul{
    display: flex;
+}
+
+.footer-contact{
+   display: flex;
+   gap: 20px;
+}
+
+.footer-contact li{ 
+   font-size: 20px; 
+   padding: 5px 10px;
+   color: #000;
+   border: 1px solid #29141428;
+   background-color: #F6F6F6;
+   box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.185);
+   border-radius: 50%;
 }
